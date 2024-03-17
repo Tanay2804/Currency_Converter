@@ -2,6 +2,6 @@
 
 A simple Currency Converter built while learning react and Using Custom Hooks.
 
-Author: TanayTibrewal
+Author: Tanay Tibrewal
 
 ![Alt text](./Preview.png?raw=true "Title")
